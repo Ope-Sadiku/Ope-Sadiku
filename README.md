@@ -52,9 +52,6 @@ The goal is to translate theoretical research into reproducible computational ex
 
 ## Selected Work
 - **Low-Resource NLP Experiments:** Systematic comparison of classical vs. transformer models on Hausa sentiment and Yoruba NER under controlled data constraints | Efficiency trade-off experiment comparing classical, neural, and transformer models under low-resource conditions (500 training examples)
-- **Micro AI for Market Vendors:** Lightweight, multilingual, conversational AI prototype for Nigerian English, Pidgin and Yoruba languages. Demonstrates real-world, low-resource language challenges.
-- **Sentiment Analysis on 75,000+ Social Media Comments:** End-to-end NLP pipeline for social media sentiment classification
-- **Predicting Bank Term Deposit Subscription Using Decision Trees:** End-to-end ML pipeline on bank term deposit subscription using decision trees
 - **Distributionally Robust Optimisation Simulation Experiments:** Systematic comparison of classical vs. robust  regression estimators under controlled distribution constraints
 
 ## Education
