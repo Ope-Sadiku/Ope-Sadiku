@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 Quantitative Researcher | Applied Data Scientist | Educator
 
-Independent Quantitative Researcher working on distribution theory and distributionally robust optimization (DRO) with applications to decision support systems and natural language processing.
+Independent Quantitative Researcher with focus on distribution theory and distributionally robust optimization (DRO), Data Science and Machine Learning, and applications to decision support and Artificial Intelligence systems.
 
-My research explores how uncertainty in data distributions affects model reliability and how distributionally robust methods can be used to design algorithms that remain stable under distribution shift.
+My research interests focus on exploring how uncertainty in data distributions affects model reliability and how distributionally robust methods can be used to design algorithms that remain stable under distribution shift.
 
-This GitHub serves as a research laboratory and technical archive where I develop and document:
+This GitHub repository serves as a research laboratory and technical archive where I develop and document:
 
 - implementations of distributionally robust optimization algorithms
 - experiments on distribution shift and model stability
@@ -45,10 +45,10 @@ The goal is to translate theoretical research into reproducible computational ex
 ## 🔍 Core Technical Skills
 - **Data Science and Machine Learning** | Python (pandas, numpy, sklearn, PyTorch), supervised/unsupervised learning, model evaluation, XAI
 - **NLP** | Hugging Face Transformers, NLTK, tokenisation, sentiment analysis, basic fine-tuning
-- **Visualization** | Power BI (DAX, Power Query), Matplotlib, Seaborn, Plotly, Excel
-- **Databases** MySQL (analytical queries, data extraction)
+- **Visualization** | Power BI (DAX), Matplotlib, Seaborn, Plotly, Excel
+- **Databases** PostgreSQL (analytical queries, data extraction)
 - **Tools & MLOps** | Commitment to reproducible research: Git, Jupyter notebook, Streamlit, reproducible workflows, documented experiments, open outputs REST APIs.
-- **Research** | Experimental design, statistical inference, regression analysis, simulation studies
+- **Research** | Experimental design, statistical inference, simulation studies.
 
 ## 🏗️ Selected Work
 - **Low-Resource NLP Experiments:** Systematic comparison of classical vs. transformer models on Hausa sentiment and Yoruba NER under controlled data constraints | Efficiency trade-off experiment comparing classical, neural, and transformer models under low-resource conditions (500 training examples)
