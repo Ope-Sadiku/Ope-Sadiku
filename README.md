@@ -42,7 +42,7 @@ This GitHub repository serves as a research laboratory and technical archive whe
 
 The goal is to translate theoretical research into reproducible computational experiments and deployable decision frameworks.
 
-## 🔍 Core Technical Skills
+## Core Technical Skills
 - **Data Science and Machine Learning** | Python (pandas, numpy, sklearn, PyTorch), supervised/unsupervised learning, model evaluation, XAI
 - **NLP** | Hugging Face Transformers, NLTK, tokenisation, sentiment analysis, basic fine-tuning
 - **Visualization** | Power BI (DAX), Matplotlib, Seaborn, Plotly, Excel
@@ -50,16 +50,21 @@ The goal is to translate theoretical research into reproducible computational ex
 - **Tools & MLOps** | Commitment to reproducible research: Git, Jupyter notebook, Streamlit, reproducible workflows, documented experiments, open outputs REST APIs.
 - **Research** | Experimental design, statistical inference, simulation studies.
 
-## 🏗️ Selected Work
+## Selected Work
 - **Low-Resource NLP Experiments:** Systematic comparison of classical vs. transformer models on Hausa sentiment and Yoruba NER under controlled data constraints | Efficiency trade-off experiment comparing classical, neural, and transformer models under low-resource conditions (500 training examples)
 - **Micro AI for Market Vendors:** Lightweight, multilingual, conversational AI prototype for Nigerian English, Pidgin and Yoruba languages. Demonstrates real-world, low-resource language challenges.
 - **Sentiment Analysis on 75,000+ Social Media Comments:** End-to-end NLP pipeline for social media sentiment classification
 - **Predicting Bank Term Deposit Subscription Using Decision Trees:** End-to-end ML pipeline on bank term deposit subscription using decision trees
 - **Distributionally Robust Optimisation Simulation Experiments:** Systematic comparison of classical vs. robust  regression estimators under controlled distribution constraints
 
-## 🌍 Professional Links
+## Education
+- MRes | Southampton Solent University | Currently enrolled
+- PGD Mathematics | Tai Solarin University of Education | Distinction (4.77/5.00) | 2018 - 2020
+- B.Tech. Statistics | Federal University of Technology Akure | Second Class Upper (3.77/5.00) | 2010 - 2014
+- ND Mathematics & Statistics | Federal Polytechnic Ilaro | Distinction (3.55/4.00) | 2007 - 2009
+
+## Professional Links
 - **LinkedIn:** www.linkedin.com/in/opeyemi-sadiku-514094327
-- **DataCamp:**
 - **Google Scholar:**
 - **Medium:**
 - **ArXiv:**
